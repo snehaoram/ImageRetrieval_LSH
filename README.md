@@ -6,5 +6,5 @@
 - With neural LSH, three loss functions (bit balance, no sitting on the fence, weak supervision) are aggregated for the training process to bring the retrieved image labels near the query labels.
 
 
-# Reference
+# References
 [1] Roy, I., De, A. and Chakrabarti, S., 2021, May. Adversarial permutation guided node representations for link prediction. In Proceedings of the AAAI conference on artificial intelligence (Vol. 35, No. 11, pp. 9445-9453).
